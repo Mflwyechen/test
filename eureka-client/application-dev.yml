@@ -1,3 +1,4 @@
+testConn: zhy
 eureka:
     client:
         serviceUrl:
