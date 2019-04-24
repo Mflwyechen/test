@@ -1,6 +1,6 @@
-testConn:zhy
-spring:
-    datasource:
+testConn: zhy
+spring: 
+    datasource: 
         name: test
         url: jdbc:oracle:thin:@10.226.95.34:1521:moauat
         username: moa
